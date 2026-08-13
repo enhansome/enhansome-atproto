@@ -1,0 +1,270 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "AT Protocol"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ATFile",
+          "description": "Store and retrieve files on the ATmosphere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-30T17:42:39Z",
+            "owner": "ziodotsh",
+            "repo": "atfile",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShopSavvy for Bluesky",
+          "description": "AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T02:15:27Z",
+            "owner": "shopsavvy",
+            "repo": "bluesky-shopsavvy",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Lexicon is a schema definition language used to describe atproto records, HTTP endpoints (XRPC), and event stream messages.\nFind below each platform's lexicons:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bluesky",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:06:01Z",
+            "owner": "bluesky-social",
+            "repo": "atproto",
+            "stars": 9585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T15:12:06Z",
+            "owner": "frontpagefyi",
+            "repo": "frontpage",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whitewind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-13T18:35:13Z",
+            "owner": "whtwnd",
+            "repo": "whitewind-blog",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookhive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:38:11Z",
+            "owner": "nperez0111",
+            "repo": "bookhive",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T18:55:51Z",
+            "owner": "mkizka",
+            "repo": "linkat",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PinkSea",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-27T18:52:26Z",
+            "owner": "shinolabs",
+            "repo": "PinkSea",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluemoji",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T19:45:53Z",
+            "owner": "aendra-rininsland",
+            "repo": "bluemoji",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skylights",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-18T21:54:24Z",
+            "owner": "Gregoor",
+            "repo": "skylights",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrayHaze",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-20T21:30:13Z",
+            "owner": "hugeblank",
+            "repo": "grayhaze.live",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pastesphere",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-22T12:46:08Z",
+            "owner": "echo8",
+            "repo": "pastesphere",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skymdb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-24T19:36:59Z",
+            "owner": "safwanyp",
+            "repo": "skymdb",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparta Social",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T15:01:55Z",
+            "owner": "dblock",
+            "repo": "sparta-social",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "place.blue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-13T03:11:17Z",
+            "owner": "QuietImCoding",
+            "repo": "place.blue",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATFile",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-15T15:51:32Z",
+            "owner": "ziodotsh",
+            "repo": "lexicons",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picosky",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Smoke Signal",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Lexicons"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:56:59.798Z",
+    "original_repository": "atblueprints/awesome-atproto",
+    "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
+    "enhanced_repository": "enhansome/enhansome-atproto",
+    "enhanced_repository_description": null,
+    "title": "Awesome ATProto with stars"
+  }
+}
