@@ -85,11 +85,11 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,586 | 🐛 741 | 🌐 TypeScript | 📅 2026-08-14
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,588 | 🐛 730 | 🌐 TypeScript | 📅 2026-08-14
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 187 | 🐛 26 | 🌐 TypeScript | 📅 2026-07-25
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 166 | 🐛 34 | 🌐 TypeScript | 📅 2025-10-13
-* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 146 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-12
-* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 120 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-08
+* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 146 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-15
+* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 120 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-14
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 108 | 🐛 17 | 🌐 C# | 📅 2026-01-27
 * [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
