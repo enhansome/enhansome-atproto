@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T22:06:34Z",
+            "last_commit": "2026-08-15T10:06:54Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9588
+            "stars": 9590
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-01-27T18:52:26Z",
             "owner": "shinolabs",
             "repo": "PinkSea",
-            "stars": 108
+            "stars": 109
           }
         },
         {
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:51:01.722Z",
+    "last_updated": "2026-08-16T05:53:22.434Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
