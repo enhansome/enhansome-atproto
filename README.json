@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T10:06:54Z",
+            "last_commit": "2026-08-18T02:11:49Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9592
+            "stars": 9593
           }
         },
         {
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T17:06:58Z",
+            "last_commit": "2026-08-17T17:03:14Z",
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 147
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:46:18Z",
+            "last_commit": "2026-08-17T10:23:49Z",
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:59:42.863Z",
+    "last_updated": "2026-08-18T05:55:19.374Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
