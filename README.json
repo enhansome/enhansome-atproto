@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "AT Protocol"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 870012747,
             "language": "Shell",
             "last_commit": "2025-10-30T17:42:39Z",
             "owner": "ziodotsh",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214003529,
             "language": "TypeScript",
             "last_commit": "2026-04-18T02:15:27Z",
             "owner": "shopsavvy",
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439447708,
             "language": "TypeScript",
             "last_commit": "2026-08-19T00:30:00Z",
             "owner": "bluesky-social",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797709282,
             "language": "TypeScript",
             "last_commit": "2026-07-25T15:12:06Z",
             "owner": "frontpagefyi",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 813660662,
             "language": "TypeScript",
             "last_commit": "2025-10-13T18:35:13Z",
             "owner": "whtwnd",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 889412273,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:00:18Z",
             "owner": "nperez0111",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 837831385,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:23:49Z",
             "owner": "mkizka",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879075928,
             "language": "C#",
             "last_commit": "2026-01-27T18:52:26Z",
             "owner": "shinolabs",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831744477,
             "language": "TypeScript",
             "last_commit": "2026-07-08T19:45:53Z",
             "owner": "aendra-rininsland",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890705462,
             "language": "TypeScript",
             "last_commit": "2025-12-18T21:54:24Z",
             "owner": "Gregoor",
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901159600,
             "language": "TypeScript",
             "last_commit": "2025-05-20T21:30:13Z",
             "owner": "hugeblank",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 893052900,
             "language": "TypeScript",
             "last_commit": "2024-12-22T12:46:08Z",
             "owner": "echo8",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 885932282,
             "language": "TypeScript",
             "last_commit": "2024-11-24T19:36:59Z",
             "owner": "safwanyp",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896576485,
             "language": "TypeScript",
             "last_commit": "2026-08-13T17:02:26Z",
             "owner": "dblock",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 898338290,
             "language": "JavaScript",
             "last_commit": "2024-12-13T03:11:17Z",
             "owner": "QuietImCoding",
@@ -231,37 +241,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 891217927,
             "language": null,
             "last_commit": "2025-01-15T15:51:32Z",
             "owner": "ziodotsh",
             "repo": "lexicons",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Picosky",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Smoke Signal",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Lexicons"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:56:09.495Z",
+    "last_updated": "2026-08-19T12:19:53.887Z",
     "original_repository": "atblueprints/awesome-atproto",
+    "original_repository_id": 893341301,
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
     "enhanced_repository_description": null,
