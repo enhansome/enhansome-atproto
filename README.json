@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T19:56:48Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9606
+            "stars": 9608
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-21T17:19:18Z",
             "owner": "mkizka",
             "repo": "linkat",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:52:58.399Z",
+    "last_updated": "2026-08-23T05:54:25.045Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_id": 893341301,
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
