@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T19:56:48Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9608
+            "stars": 9614
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 889412273,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:06:45Z",
+            "last_commit": "2026-08-23T20:23:04Z",
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 153
@@ -254,7 +254,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:54:25.045Z",
+    "last_updated": "2026-08-24T06:03:29.591Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_id": 893341301,
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
