@@ -5,6 +5,49 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Sparta Social",
+          "description": "Exercise activity tracker (wip).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896576485,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T17:25:24Z",
+            "owner": "dblock",
+            "repo": "sparta-social",
+            "stars": 7
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bluesky-powered comments for any website",
+              "description": "Embed Bluesky comments on your website easily (announcement).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 893886531,
+                "language": "TypeScript",
+                "last_commit": "2025-10-06T09:08:51Z",
+                "owner": "czue",
+                "repo": "bluesky-comments",
+                "stars": 238
+              }
+            }
+          ],
+          "description": "For more Bluesky tools, check Awesome Bluesky, a more exhaustive list of tools and clients available for Bluesky.",
+          "node_type": "group",
+          "title": "Bluesky"
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "ATFile",
           "description": "Store and retrieve files on the ATmosphere.",
           "children": [],
@@ -48,10 +91,10 @@
             "archived": false,
             "id": 439447708,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:56:48Z",
+            "last_commit": "2026-08-24T13:38:18Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9614
+            "stars": 9615
           }
         },
         {
@@ -93,7 +136,7 @@
             "archived": false,
             "id": 889412273,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T20:23:04Z",
+            "last_commit": "2026-08-24T08:38:46Z",
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 153
@@ -108,7 +151,7 @@
             "archived": false,
             "id": 837831385,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:19:18Z",
+            "last_commit": "2026-08-24T11:25:07Z",
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 121
@@ -254,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:03:29.591Z",
+    "last_updated": "2026-08-24T14:48:48.424Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_id": 893341301,
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
