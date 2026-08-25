@@ -91,7 +91,7 @@
             "archived": false,
             "id": 439447708,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:38:18Z",
+            "last_commit": "2026-08-24T18:08:31Z",
             "owner": "bluesky-social",
             "repo": "atproto",
             "stars": 9615
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:48.424Z",
+    "last_updated": "2026-08-25T06:18:41.580Z",
     "original_repository": "atblueprints/awesome-atproto",
     "original_repository_id": 893341301,
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
