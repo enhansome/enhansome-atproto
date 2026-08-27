@@ -12,7 +12,7 @@
             "archived": false,
             "id": 896576485,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:25:24Z",
+            "last_commit": "2026-08-26T18:04:53Z",
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7
@@ -91,10 +91,10 @@
             "archived": false,
             "id": 439447708,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T05:00:20Z",
+            "last_commit": "2026-08-26T23:19:16Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9614
+            "stars": 9615
           }
         },
         {
@@ -136,7 +136,7 @@
             "archived": false,
             "id": 889412273,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:38:46Z",
+            "last_commit": "2026-08-26T21:39:42Z",
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 154
@@ -256,7 +256,7 @@
             "archived": false,
             "id": 896576485,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:25:24Z",
+            "last_commit": "2026-08-26T18:04:53Z",
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7
@@ -297,9 +297,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:59:25.533Z",
-    "original_repository": "atblueprints/awesome-atproto",
-    "original_repository_id": 893341301,
+    "last_updated": "2026-08-27T11:20:23.035Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 893341301,
+      "language": null,
+      "last_commit": "2026-06-21T19:33:09Z",
+      "owner": "atblueprints",
+      "repo": "awesome-atproto",
+      "stars": 75
+    },
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
     "enhanced_repository_description": null,
