@@ -16,7 +16,8 @@
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "czue",
                 "repo": "bluesky-comments",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T17:36:36.878Z"
             }
           ],
           "description": "For more Bluesky tools, check Awesome Bluesky, a more exhaustive list of tools and clients available for Bluesky.",
@@ -59,7 +61,8 @@
             "owner": "ziodotsh",
             "repo": "atfile",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "shopsavvy",
             "repo": "bluesky-shopsavvy",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         }
       ],
       "title": "Tools"
@@ -91,11 +95,12 @@
             "archived": false,
             "id": 439447708,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:19:16Z",
+            "last_commit": "2026-08-28T17:09:37Z",
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9615
-          }
+            "stars": 9616
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -110,7 +115,8 @@
             "owner": "frontpagefyi",
             "repo": "frontpage",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "whtwnd",
             "repo": "whitewind-blog",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -151,11 +159,12 @@
             "archived": false,
             "id": 837831385,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:25:07Z",
+            "last_commit": "2026-08-28T16:52:09Z",
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "shinolabs",
             "repo": "PinkSea",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "aendra-rininsland",
             "repo": "bluemoji",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "Gregoor",
             "repo": "skylights",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "hugeblank",
             "repo": "grayhaze.live",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "echo8",
             "repo": "pastesphere",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "safwanyp",
             "repo": "skymdb",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -260,7 +275,8 @@
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -275,7 +291,8 @@
             "owner": "QuietImCoding",
             "repo": "place.blue",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         },
         {
           "node_type": "item",
@@ -290,14 +307,15 @@
             "owner": "ziodotsh",
             "repo": "lexicons",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
         }
       ],
       "title": "Lexicons"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:27.885Z",
+    "last_updated": "2026-08-28T17:36:36.878Z",
     "original_repository_info": {
       "archived": false,
       "id": 893341301,
@@ -305,7 +323,7 @@
       "last_commit": "2026-06-21T19:33:09Z",
       "owner": "atblueprints",
       "repo": "awesome-atproto",
-      "stars": 75
+      "stars": 76
     },
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
