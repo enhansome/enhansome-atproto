@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's build a decentralized exercise activity tracker with Atmosphere.",
+            "homepage": null,
             "id": 896576485,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:04:53Z",
+            "open_issues": 12,
             "owner": "dblock",
             "repo": "sparta-social",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add a comments thread to any page using bluesky.",
+                "homepage": null,
                 "id": 893886531,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-06T09:08:51Z",
+                "open_issues": 6,
                 "owner": "czue",
                 "repo": "bluesky-comments",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:36:36.878Z"
             }
@@ -55,12 +65,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦➔🦋 Store and retrieve files on the ATmosphere",
+            "homepage": null,
             "id": 870012747,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-10-30T17:42:39Z",
+            "open_issues": 2,
             "owner": "ziodotsh",
             "repo": "atfile",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "atproto",
+              "bluesky",
+              "file-hosting"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -71,12 +90,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluesky bot suite for ShopSavvy — reactive mention bot, custom feed generator, daily deal poster",
+            "homepage": "https://shopsavvy.com/integrations/bluesky",
             "id": 1214003529,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-18T02:15:27Z",
+            "open_issues": 0,
             "owner": "shopsavvy",
             "repo": "bluesky-shopsavvy",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         }
@@ -93,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Social networking technology created by Bluesky",
+            "homepage": null,
             "id": 439447708,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:09:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:31:04Z",
+            "open_issues": 754,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9616
+            "stars": 9617,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -109,12 +138,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated link aggregator",
+            "homepage": "https://frontpage.fyi",
             "id": 797709282,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T15:12:06Z",
+            "open_issues": 26,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "atproto",
+              "atprotocol"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -125,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to manage WhiteWind atproto blogging platform codes",
+            "homepage": null,
             "id": 813660662,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-10-13T18:35:13Z",
+            "open_issues": 34,
             "owner": "whtwnd",
             "repo": "whitewind-blog",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -141,12 +183,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track your books, share your shelves, see what others are reading",
+            "homepage": "https://bookhive.buzz",
             "id": 889412273,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:39:42Z",
+            "open_issues": 23,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "atproto",
+              "bluesky",
+              "books",
+              "bookshelf",
+              "goodreads",
+              "management-system"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -157,12 +211,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create your Link in Bio for Bluesky",
+            "homepage": "https://linkat.blue",
             "id": 837831385,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:52:09Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:57:36Z",
+            "open_issues": 2,
             "owner": "mkizka",
             "repo": "linkat",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "atproto",
+              "bluesky"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -173,12 +235,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An oekaki BBS board running on top of the AT Protocol.",
+            "homepage": "https://pinksea.art",
             "id": 879075928,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-01-27T18:52:26Z",
+            "open_issues": 17,
             "owner": "shinolabs",
             "repo": "PinkSea",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "atproto",
+              "atprotocol",
+              "bluesky",
+              "decentralized",
+              "oekaki"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -189,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo for the Bluemoji Bluesky emoji project",
+            "homepage": null,
             "id": 831744477,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-08T19:45:53Z",
+            "open_issues": 0,
             "owner": "aendra-rininsland",
             "repo": "bluemoji",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -205,12 +283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skylights 💫",
+            "homepage": "https://skylights.my",
             "id": 890705462,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-18T21:54:24Z",
+            "open_issues": 3,
             "owner": "Gregoor",
             "repo": "skylights",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -221,12 +304,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live stream over ATProto",
+            "homepage": "https://grayhaze.live",
             "id": 901159600,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-20T21:30:13Z",
+            "open_issues": 0,
             "owner": "hugeblank",
             "repo": "grayhaze.live",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "atproto",
+              "hls",
+              "livestream"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -237,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share text, code and more on the ATmosphere!",
+            "homepage": "https://pastesphere.link/",
             "id": 893052900,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-22T12:46:08Z",
+            "open_issues": 0,
             "owner": "echo8",
             "repo": "pastesphere",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "atproto",
+              "bluesky",
+              "pastebin"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -253,12 +354,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A movie database built on top of the AT Protocol",
+            "homepage": null,
             "id": 885932282,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-24T19:36:59Z",
+            "open_issues": 0,
             "owner": "safwanyp",
             "repo": "skymdb",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "atproto",
+              "imdb",
+              "tmdb"
+            ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -269,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's build a decentralized exercise activity tracker with Atmosphere.",
+            "homepage": null,
             "id": 896576485,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:04:53Z",
+            "open_issues": 12,
             "owner": "dblock",
             "repo": "sparta-social",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -285,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the blue place",
+            "homepage": null,
             "id": 898338290,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-12-13T03:11:17Z",
+            "open_issues": 0,
             "owner": "QuietImCoding",
             "repo": "place.blue",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         },
@@ -301,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦋 ATProto Lexicons for blue.zio.*",
+            "homepage": "https://zio.blue",
             "id": 891217927,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-15T15:51:32Z",
+            "open_issues": 0,
             "owner": "ziodotsh",
             "repo": "lexicons",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
         }
@@ -315,15 +440,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:36:36.878Z",
+    "last_updated": "2026-08-29T05:00:54.084Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AT Protocol resources",
+      "homepage": "https://blueprints.at/awesome-atproto",
       "id": 893341301,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-21T19:33:09Z",
+      "open_issues": 4,
       "owner": "atblueprints",
       "repo": "awesome-atproto",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "atproto",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
     "enhanced_repository": "enhansome/enhansome-atproto",
