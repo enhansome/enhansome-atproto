@@ -126,7 +126,7 @@
             "open_issues": 754,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9617,
+            "stars": 9620,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:54.084Z",
+    "last_updated": "2026-08-29T11:44:33.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
