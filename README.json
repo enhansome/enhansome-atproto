@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T21:31:04Z",
+            "last_commit": "2026-08-31T10:57:28Z",
             "open_issues": 754,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9623,
+            "stars": 9625,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -188,8 +188,8 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T21:39:42Z",
-            "open_issues": 23,
+            "last_commit": "2026-08-31T08:41:04Z",
+            "open_issues": 22,
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 154,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:35:44.783Z",
+    "last_updated": "2026-08-31T11:44:29.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
