@@ -15,8 +15,8 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T18:04:53Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-01T00:27:55Z",
+            "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7,
@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T10:57:28Z",
-            "open_issues": 754,
+            "last_commit": "2026-08-31T22:39:55Z",
+            "open_issues": 755,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9625,
+            "stars": 9624,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -188,11 +188,11 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T08:41:04Z",
+            "last_commit": "2026-08-31T19:13:07Z",
             "open_issues": 22,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "atproto",
               "bluesky",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "aendra-rininsland",
             "repo": "bluemoji",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -384,8 +384,8 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T18:04:53Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-01T00:27:55Z",
+            "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
             "stars": 7,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:44:29.395Z",
+    "last_updated": "2026-09-01T10:19:48.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
