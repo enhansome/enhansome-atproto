@@ -126,7 +126,7 @@
             "open_issues": 752,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9622,
+            "stars": 9624,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -192,7 +192,7 @@
             "open_issues": 22,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "atproto",
               "bluesky",
@@ -216,8 +216,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T17:56:37Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-06T09:31:24Z",
+            "open_issues": 10,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:12:54.351Z",
+    "last_updated": "2026-09-06T09:35:08.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
