@@ -74,7 +74,7 @@
             "open_issues": 2,
             "owner": "ziodotsh",
             "repo": "atfile",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "atproto",
               "bluesky",
@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:34:42Z",
-            "open_issues": 752,
+            "last_commit": "2026-09-07T10:27:36Z",
+            "open_issues": 753,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9624,
+            "stars": 9630,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "atproto",
               "atprotocol"
@@ -216,8 +216,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T09:31:24Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-06T15:15:08Z",
+            "open_issues": 7,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -244,7 +244,7 @@
             "open_issues": 17,
             "owner": "shinolabs",
             "repo": "PinkSea",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "atproto",
               "atprotocol",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:35:08.150Z",
+    "last_updated": "2026-09-07T10:36:20.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
