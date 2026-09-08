@@ -85,8 +85,8 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,630 | 🐛 753 | 🌐 TypeScript | 📅 2026-09-07
-* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 187 | 🐛 26 | 🌐 TypeScript | 📅 2026-07-25
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,631 | 🐛 754 | 🌐 TypeScript | 📅 2026-09-08
+* [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 186 | 🐛 26 | 🌐 TypeScript | 📅 2026-07-25
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 165 | 🐛 34 | 🌐 TypeScript | 📅 2025-10-13
 * [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 156 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-02
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 120 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

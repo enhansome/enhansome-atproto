@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T10:27:36Z",
-            "open_issues": 753,
+            "last_commit": "2026-09-08T09:26:25Z",
+            "open_issues": 754,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9630,
+            "stars": 9631,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "atproto",
               "atprotocol"
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:36:20.172Z",
+    "last_updated": "2026-09-08T09:56:14.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
