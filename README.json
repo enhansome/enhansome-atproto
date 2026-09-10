@@ -42,7 +42,7 @@
                 "open_issues": 6,
                 "owner": "czue",
                 "repo": "bluesky-comments",
-                "stars": 238,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:36:36.878Z"
@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T09:33:31Z",
-            "open_issues": 753,
+            "last_commit": "2026-09-09T22:35:15Z",
+            "open_issues": 756,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9632,
+            "stars": 9634,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -171,7 +171,7 @@
             "open_issues": 34,
             "owner": "whtwnd",
             "repo": "whitewind-blog",
-            "stars": 165,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -188,8 +188,8 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T08:46:23Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-09T23:32:34Z",
+            "open_issues": 25,
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 157,
@@ -216,7 +216,7 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T15:03:36Z",
+            "last_commit": "2026-09-09T11:52:54Z",
             "open_issues": 7,
             "owner": "mkizka",
             "repo": "linkat",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:58:48.185Z",
+    "last_updated": "2026-09-10T09:57:05.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
@@ -449,7 +449,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-21T19:33:09Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "atblueprints",
       "repo": "awesome-atproto",
       "stars": 76,

@@ -63,7 +63,7 @@
 
 ### Bluesky
 
-* [Bluesky-powered comments for any website](https://github.com/czue/bluesky-comments) ⭐ 238 | 🐛 6 | 🌐 TypeScript | 📅 2025-10-06 - Embed Bluesky comments on your website easily ([announcement](https://www.coryzue.com/writing/bluesky-comments/)).
+* [Bluesky-powered comments for any website](https://github.com/czue/bluesky-comments) ⭐ 240 | 🐛 6 | 🌐 TypeScript | 📅 2025-10-06 - Embed Bluesky comments on your website easily ([announcement](https://www.coryzue.com/writing/bluesky-comments/)).
 * [ClearSky](https://clearsky.app/) - Tool to explore Bluesky accounts.
 * [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Select inactive or blocked accounts to unfollow.
 * [Handles directory](https://blue.mackuba.eu/directory/) - Handles ranking by TLDs.
@@ -85,11 +85,11 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,632 | 🐛 753 | 🌐 TypeScript | 📅 2026-09-09
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,634 | 🐛 756 | 🌐 TypeScript | 📅 2026-09-09
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 186 | 🐛 26 | 🌐 TypeScript | 📅 2026-07-25
-* [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 165 | 🐛 34 | 🌐 TypeScript | 📅 2025-10-13
-* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 157 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-09
-* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 120 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08
+* [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 166 | 🐛 34 | 🌐 TypeScript | 📅 2025-10-13
+* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 157 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-09
+* [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 120 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 110 | 🐛 17 | 🌐 C# | 📅 2026-01-27
 * [Bluemoji](https://github.com/aendra-rininsland/bluemoji/tree/main/schema/blue.moji) ⭐ 59 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-08
 * [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18
@@ -109,4 +109,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
