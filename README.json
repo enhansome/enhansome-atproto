@@ -15,7 +15,7 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T02:54:53Z",
+            "last_commit": "2026-09-11T02:50:07Z",
             "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
@@ -122,11 +122,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T22:35:15Z",
+            "last_commit": "2026-09-11T01:11:51Z",
             "open_issues": 756,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9634,
+            "stars": 9636,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -192,7 +192,7 @@
             "open_issues": 25,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "atproto",
               "bluesky",
@@ -216,8 +216,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T11:52:54Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T17:01:13Z",
+            "open_issues": 8,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -384,7 +384,7 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T02:54:53Z",
+            "last_commit": "2026-09-11T02:50:07Z",
             "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
@@ -440,7 +440,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:57:05.458Z",
+    "last_updated": "2026-09-11T09:55:04.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
