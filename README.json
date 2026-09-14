@@ -60,6 +60,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "OpenPost",
+          "description": "Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
+            "homepage": "https://openpo.st",
+            "id": 1187916096,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-14T07:51:32Z",
+            "open_issues": 3,
+            "owner": "getopenpost",
+            "repo": "openpost",
+            "stars": 437,
+            "topics": [
+              "automation",
+              "buffer-alternative",
+              "content-creation",
+              "cross-posting",
+              "golang",
+              "mcp-server",
+              "self-hosted",
+              "single-binary",
+              "social-media",
+              "social-media-automation",
+              "social-media-management",
+              "social-media-scheduler",
+              "svelte",
+              "sveltekit"
+            ]
+          },
+          "first_seen": "2026-09-14T10:53:09.682Z"
+        },
+        {
+          "node_type": "item",
           "title": "ATFile",
           "description": "Store and retrieve files on the ATmosphere.",
           "children": [],
@@ -122,11 +158,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T09:54:26Z",
-            "open_issues": 755,
+            "last_commit": "2026-09-14T10:37:39Z",
+            "open_issues": 758,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9642,
+            "stars": 9646,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -192,7 +228,7 @@
             "open_issues": 25,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 158,
+            "stars": 160,
             "topics": [
               "atproto",
               "bluesky",
@@ -440,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:29:06.128Z",
+    "last_updated": "2026-09-14T10:53:09.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
@@ -448,8 +484,8 @@
       "id": 893341301,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-21T19:33:09Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-14T07:00:26Z",
+      "open_issues": 1,
       "owner": "atblueprints",
       "repo": "awesome-atproto",
       "stars": 76,
@@ -459,7 +495,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "f9b748307b0247d2cdfbb1e1c6e9f9a4ec04966e",
+    "original_repository_sha": "bd349ee48e4900e613a68389088cf80db9dd1647",
     "enhanced_repository": "enhansome/enhansome-atproto",
     "enhanced_repository_description": null,
     "title": "Awesome ATProto with stars"
