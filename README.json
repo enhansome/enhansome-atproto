@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-14T07:51:32Z",
+            "last_commit": "2026-09-15T06:11:40Z",
             "open_issues": 3,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 437,
+            "stars": 503,
             "topics": [
               "automation",
               "buffer-alternative",
@@ -158,11 +158,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T10:37:39Z",
+            "last_commit": "2026-09-14T10:59:51Z",
             "open_issues": 758,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9646,
+            "stars": 9645,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -224,8 +224,8 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:06:26Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-15T08:36:36Z",
+            "open_issues": 26,
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 160,
@@ -252,7 +252,7 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T22:13:25Z",
+            "last_commit": "2026-09-14T15:01:39Z",
             "open_issues": 8,
             "owner": "mkizka",
             "repo": "linkat",
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:53:09.682Z",
+    "last_updated": "2026-09-15T10:16:55.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
