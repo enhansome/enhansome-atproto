@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T22:26:46Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-28T01:40:38Z",
+            "open_issues": 6,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 623,
+            "stars": 628,
             "topics": [
               "automation",
               "content-creation",
@@ -154,7 +154,7 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T20:12:35Z",
+            "last_commit": "2026-09-28T10:50:34Z",
             "open_issues": 757,
             "owner": "bluesky-social",
             "repo": "atproto",
@@ -248,8 +248,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T10:08:51Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-28T09:54:27Z",
+            "open_issues": 16,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:40:01.733Z",
+    "last_updated": "2026-09-28T11:52:49.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
@@ -484,7 +484,7 @@
       "open_issues": 2,
       "owner": "atblueprints",
       "repo": "awesome-atproto",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "atproto",
         "awesome",
