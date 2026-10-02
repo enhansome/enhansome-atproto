@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T14:56:33Z",
+            "last_commit": "2026-10-01T16:25:27Z",
             "open_issues": 0,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 637,
+            "stars": 645,
             "topics": [
               "automation",
               "content-creation",
@@ -154,11 +154,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T11:36:00Z",
-            "open_issues": 751,
+            "last_commit": "2026-10-01T22:41:58Z",
+            "open_issues": 749,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9665,
+            "stars": 9667,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -179,7 +179,7 @@
             "open_issues": 26,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "atproto",
               "atprotocol"
@@ -248,8 +248,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T19:23:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-01T17:42:26Z",
+            "open_issues": 15,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -315,15 +315,15 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Skylights 💫",
-            "homepage": "https://skylights.my",
+            "description": "Skylights 💫-  Legacy, unsupported, abandoned, gone with the wind",
+            "homepage": null,
             "id": 890705462,
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-18T21:54:24Z",
             "open_issues": 3,
             "owner": "Gregoor",
-            "repo": "skylights",
+            "repo": "skylights-legacy",
             "stars": 33,
             "topics": []
           },
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:44:28.910Z",
+    "last_updated": "2026-10-02T11:14:19.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
