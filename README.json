@@ -15,7 +15,7 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:04:00Z",
+            "last_commit": "2026-10-03T02:16:44Z",
             "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
@@ -71,10 +71,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-01T16:25:27Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 645,
+            "stars": 647,
             "topics": [
               "automation",
               "content-creation",
@@ -145,7 +145,7 @@
         {
           "node_type": "item",
           "title": "Bluesky",
-          "description": null,
+          "description": "bluesky-social/atproto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,11 +154,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T22:41:58Z",
-            "open_issues": 749,
+            "last_commit": "2026-10-02T21:12:59Z",
+            "open_issues": 747,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9667,
+            "stars": 9670,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -166,7 +166,7 @@
         {
           "node_type": "item",
           "title": "Frontage",
-          "description": null,
+          "description": "frontpagefyi/frontpage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "Whitewind",
-          "description": null,
+          "description": "whtwnd/whitewind-blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "Bookhive",
-          "description": null,
+          "description": "nperez0111/bookhive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,8 +220,8 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T08:43:35Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-02T21:00:42Z",
+            "open_issues": 23,
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 163,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Linkat",
-          "description": null,
+          "description": "mkizka/linkat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,8 +248,8 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T17:42:26Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-03T04:21:40Z",
+            "open_issues": 19,
             "owner": "mkizka",
             "repo": "linkat",
             "stars": 120,
@@ -263,7 +263,7 @@
         {
           "node_type": "item",
           "title": "PinkSea",
-          "description": null,
+          "description": "shinolabs/PinkSea",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -290,7 +290,7 @@
         {
           "node_type": "item",
           "title": "Bluemoji",
-          "description": null,
+          "description": "aendra-rininsland/bluemoji",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -310,29 +310,8 @@
         },
         {
           "node_type": "item",
-          "title": "Skylights",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Skylights 💫-  Legacy, unsupported, abandoned, gone with the wind",
-            "homepage": null,
-            "id": 890705462,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-12-18T21:54:24Z",
-            "open_issues": 3,
-            "owner": "Gregoor",
-            "repo": "skylights-legacy",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T17:36:36.878Z"
-        },
-        {
-          "node_type": "item",
           "title": "GrayHaze",
-          "description": null,
+          "description": "hugeblank/grayhaze.live",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +336,7 @@
         {
           "node_type": "item",
           "title": "Pastesphere",
-          "description": null,
+          "description": "echo8/pastesphere",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +361,7 @@
         {
           "node_type": "item",
           "title": "Skymdb",
-          "description": null,
+          "description": "safwanyp/skymdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +386,7 @@
         {
           "node_type": "item",
           "title": "Sparta Social",
-          "description": null,
+          "description": "dblock/sparta-social",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,7 +395,7 @@
             "id": 896576485,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:04:00Z",
+            "last_commit": "2026-10-03T02:16:44Z",
             "open_issues": 13,
             "owner": "dblock",
             "repo": "sparta-social",
@@ -428,7 +407,7 @@
         {
           "node_type": "item",
           "title": "place.blue",
-          "description": null,
+          "description": "QuietImCoding/place.blue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,7 +428,7 @@
         {
           "node_type": "item",
           "title": "ATFile",
-          "description": null,
+          "description": "ziodotsh/lexicons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -466,13 +445,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Skylights",
+          "description": "Gregoor/Skylights",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tinycast root-search provider for TMDB movies and TV shows, with an extension-owned index updated daily",
+            "homepage": null,
+            "id": 1384134826,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2026-10-02T15:39:59Z",
+            "open_issues": 0,
+            "owner": "Gregoor",
+            "repo": "Skylights",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T04:38:27.359Z"
         }
       ],
       "title": "Lexicons"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:14:19.943Z",
+    "last_updated": "2026-10-03T04:38:27.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
