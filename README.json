@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T11:16:29Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-11T10:56:10Z",
+            "open_issues": 1,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 661,
+            "stars": 664,
             "topics": [
               "automation",
               "content-creation",
@@ -106,7 +106,7 @@
             "open_issues": 2,
             "owner": "ziodotsh",
             "repo": "atfile",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "atproto",
               "bluesky",
@@ -154,11 +154,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T23:23:53Z",
-            "open_issues": 757,
+            "last_commit": "2026-10-10T18:25:42Z",
+            "open_issues": 758,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9679,
+            "stars": 9680,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -175,11 +175,11 @@
             "id": 797709282,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-25T15:12:06Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-11T07:31:14Z",
+            "open_issues": 27,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "atproto",
               "atprotocol"
@@ -224,7 +224,7 @@
             "open_issues": 23,
             "owner": "nperez0111",
             "repo": "bookhive",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "atproto",
               "bluesky",
@@ -248,11 +248,11 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T04:47:13Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-11T11:07:03Z",
+            "open_issues": 10,
             "owner": "mkizka",
             "repo": "linkat",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "atproto",
               "bluesky"
@@ -276,7 +276,7 @@
             "open_issues": 17,
             "owner": "shinolabs",
             "repo": "PinkSea",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "atproto",
               "atprotocol",
@@ -299,8 +299,8 @@
             "id": 831744477,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-09T13:31:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-11T10:09:47Z",
+            "open_issues": 0,
             "owner": "aendra-rininsland",
             "repo": "bluemoji",
             "stars": 63,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:18:01.212Z",
+    "last_updated": "2026-10-11T11:31:20.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
@@ -484,7 +484,7 @@
       "open_issues": 2,
       "owner": "atblueprints",
       "repo": "awesome-atproto",
-      "stars": 79,
+      "stars": 80,
       "topics": [
         "atproto",
         "awesome",
