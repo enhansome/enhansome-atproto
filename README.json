@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T23:00:20Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-16T07:27:07Z",
+            "open_issues": 1,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 741,
+            "stars": 744,
             "topics": [
               "automation",
               "content-creation",
@@ -162,8 +162,8 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T19:59:26Z",
-            "open_issues": 756,
+            "last_commit": "2026-10-16T09:52:24Z",
+            "open_issues": 758,
             "owner": "bluesky-social",
             "repo": "atproto",
             "stars": 9693,
@@ -187,10 +187,38 @@
             "open_issues": 26,
             "owner": "frontpagefyi",
             "repo": "frontpage",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "atproto",
               "atprotocol"
+            ]
+          },
+          "first_seen": "2026-08-28T17:36:36.878Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bookhive",
+          "description": "nperez0111/bookhive",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Track your books, share your shelves, see what others are reading",
+            "homepage": "https://bookhive.buzz",
+            "id": 889412273,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-14T22:09:56Z",
+            "open_issues": 25,
+            "owner": "nperez0111",
+            "repo": "bookhive",
+            "stars": 166,
+            "topics": [
+              "atproto",
+              "bluesky",
+              "books",
+              "bookshelf",
+              "goodreads",
+              "management-system"
             ]
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -218,34 +246,6 @@
         },
         {
           "node_type": "item",
-          "title": "Bookhive",
-          "description": "nperez0111/bookhive",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Track your books, share your shelves, see what others are reading",
-            "homepage": "https://bookhive.buzz",
-            "id": 889412273,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-14T22:09:56Z",
-            "open_issues": 24,
-            "owner": "nperez0111",
-            "repo": "bookhive",
-            "stars": 165,
-            "topics": [
-              "atproto",
-              "bluesky",
-              "books",
-              "bookshelf",
-              "goodreads",
-              "management-system"
-            ]
-          },
-          "first_seen": "2026-08-28T17:36:36.878Z"
-        },
-        {
-          "node_type": "item",
           "title": "Linkat",
           "description": "mkizka/linkat",
           "children": [],
@@ -256,11 +256,11 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T16:15:30Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-15T15:03:05Z",
+            "open_issues": 4,
             "owner": "mkizka",
             "repo": "linkat",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "atproto",
               "bluesky"
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:10:40.594Z",
+    "last_updated": "2026-10-16T10:01:44.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
