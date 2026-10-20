@@ -70,11 +70,11 @@
             "id": 1187916096,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T14:43:40Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-20T05:05:21Z",
+            "open_issues": 3,
             "owner": "getopenpost",
             "repo": "openpost",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "automation",
               "content-creation",
@@ -162,11 +162,11 @@
             "id": 439447708,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T11:01:21Z",
-            "open_issues": 757,
+            "last_commit": "2026-10-19T21:32:33Z",
+            "open_issues": 758,
             "owner": "bluesky-social",
             "repo": "atproto",
-            "stars": 9696,
+            "stars": 9699,
             "topics": []
           },
           "first_seen": "2026-08-28T17:36:36.878Z"
@@ -207,8 +207,8 @@
             "id": 889412273,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:09:56Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-19T15:37:59Z",
+            "open_issues": 25,
             "owner": "nperez0111",
             "repo": "bookhive",
             "stars": 169,
@@ -256,11 +256,11 @@
             "id": 837831385,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T16:15:04Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-20T10:08:58Z",
+            "open_issues": 7,
             "owner": "mkizka",
             "repo": "linkat",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "atproto",
               "bluesky"
@@ -480,7 +480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:03:51.726Z",
+    "last_updated": "2026-10-20T10:17:19.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AT Protocol resources",
