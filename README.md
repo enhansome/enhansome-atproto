@@ -76,7 +76,7 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 
 ## Tools
 
-* [OpenPost](https://github.com/rodrgds/openpost) ⭐ 915 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.
+* [OpenPost](https://github.com/rodrgds/openpost) ⭐ 917 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-15 - Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.
 * [ATFile](https://github.com/ziodotsh/atfile) ⭐ 141 | 🐛 2 | 🌐 Shell | 📅 2025-10-30 - Store and retrieve files on the ATmosphere.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 * [ONYX](https://onyxhq.us) - Bluesky-native, AT-Protocol post scheduler with AI-assisted drafting, analytics, and free Bluesky tools. $7/mo flat, free tier.
@@ -87,9 +87,9 @@ Lexicon is a schema definition language used to describe atproto records, HTTP e
 
 Find below each platform's lexicons:
 
-* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,728 | 🐛 779 | 🌐 TypeScript | 📅 2026-11-14
+* [Bluesky](https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky) ⭐ 9,731 | 🐛 782 | 🌐 TypeScript | 📅 2026-11-16
 * [Frontage](https://github.com/likeandscribe/frontpage/tree/main/lexicons/fyi/unravel/frontpage) ⭐ 188 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-12
-* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 174 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-15
+* [Bookhive](https://github.com/nperez0111/bookhive/tree/main/lexicons) ⭐ 175 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-15
 * [Whitewind](https://github.com/whtwnd/whitewind-blog/tree/main/lexicons/com/whtwnd/blog) ⭐ 166 | 🐛 34 | 🌐 TypeScript | 📅 2025-10-13
 * [Linkat](https://github.com/mkizka/linkat/tree/main/lexicons/blue/linkat) ⭐ 124 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-15
 * [PinkSea](https://github.com/shinolabs/PinkSea/tree/master/PinkSea.Lexicons/com/shinolabs/pinksea) ⭐ 112 | 🐛 17 | 🌐 C# | 📅 2026-01-27
@@ -100,7 +100,7 @@ Find below each platform's lexicons:
 * [Sparta Social](https://github.com/dblock/sparta-social/tree/main/lexicons) ⭐ 7 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-13
 * [place.blue](https://github.com/QuietImCoding/place.blue/tree/main/atproto/lexicons) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-13
 * [ATFile](https://github.com/ziodotsh/lexicons/tree/main/blue/zio/atfile) ⭐ 3 | 🐛 0 | 📅 2025-01-15
-* [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-10
+* [Skylights](https://github.com/Gregoor/skylights/tree/main/web/lexicons) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-15
 * [Picosky](https://github.com/psky-atp/appview/tree/main/lexicons/social/psky)
 * [recipe.exchange](https://recipe.exchange/lexicons/)
 * [Smoke Signal](https://github.com/SmokeSignal-Events/lexicon)
@@ -111,4 +111,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
